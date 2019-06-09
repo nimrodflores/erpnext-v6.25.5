@@ -1,2 +1,2 @@
-frappe
-unidecode
+frappe==6.26.4
+unidecode==0.4.19
